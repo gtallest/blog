@@ -93,9 +93,9 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #333;
+  border: 1px solid #fffcfc;
   border-radius: 3px;
-  background-color: #222; }
+  background-color: #eef; }
 
 code {
   padding: 1px 5px; }
@@ -149,7 +149,7 @@ pre {
  */
 .site-header {
   border-top: 5px solid #b00000;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #fffcfc;
   min-height: 56px;
   position: relative; }
 
@@ -212,7 +212,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #333;
+  border-top: 1px solid #fffcfc;
   padding: 30px 0; }
 
 .footer-heading {
@@ -455,3 +455,14 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.site-header {
+  border-bottom: 1px solid #333; }
+
+.site-footer {
+  border-top: 1px solid #333; }
+
+pre,
+code {
+  border: 1px solid #333;
+  background-color: #222; }
