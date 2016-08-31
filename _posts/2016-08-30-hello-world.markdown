@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2016-08-30 21:54:12 -0700
+date:   2016-08-30 01:54:12 -0700
 categories: misc
 ---
 This is my first post for my blog which is hosted on GitHub Pages using Jekyll.
