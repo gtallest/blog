@@ -8,7 +8,7 @@ This is my first post for my blog which is hosted on GitHub Pages using Jekyll.
 
 I'm still in the beginning stages of learning how Jekyll works, so don't expect much until I learn more about the markdown type.
 
-Stay tu<s>r</s>ned.
+Stay <s>turned</s> tuned.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zHiLQLYXF7g?start=103" frameborder="0" allowfullscreen></iframe>
 
