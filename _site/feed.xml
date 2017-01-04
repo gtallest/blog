@@ -6,9 +6,33 @@
 </description>
     <link>http://marcdwong.com/blog/</link>
     <atom:link href="http://marcdwong.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Aug 2016 23:25:29 -0700</pubDate>
-    <lastBuildDate>Tue, 30 Aug 2016 23:25:29 -0700</lastBuildDate>
+    <pubDate>Tue, 03 Jan 2017 20:24:42 -0800</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2017 20:24:42 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>WILT: Flexbox &amp; Lazy vs. Eager</title>
+        <description>&lt;p&gt;WILT = W.hat I. L.earned T.oday&lt;/p&gt;
+
+&lt;p&gt;Flexbox Magic via &lt;a href=&quot;http://flexboxfroggy.com/&quot; target=&quot;_blank&quot;&gt;Flexbox Froggy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lazy vs. Eager, aka Just-in-Time vs. Ahead-of-Time&lt;/p&gt;
+
+&lt;p&gt;Just-in-Time:
+  getter functions compute values when called&lt;/p&gt;
+
+&lt;p&gt;Ahead-of-Time:
+  values are computed and stored when inserted, so getter functions can return values in O(1) time&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 03 Jan 2017 00:54:12 -0800</pubDate>
+        <link>http://marcdwong.com/blog/code/2017/01/03/wilt-flexbox-lazy-vs-eager.html</link>
+        <guid isPermaLink="true">http://marcdwong.com/blog/code/2017/01/03/wilt-flexbox-lazy-vs-eager.html</guid>
+        
+        
+        <category>code</category>
+        
+      </item>
     
       <item>
         <title>Hello World</title>
@@ -16,12 +40,12 @@
 
 &lt;p&gt;I’m still in the beginning stages of learning how Jekyll works, so don’t expect much until I learn more about the markdown type.&lt;/p&gt;
 
-&lt;p&gt;Stay tu&lt;s&gt;r&lt;/s&gt;ned.&lt;/p&gt;
+&lt;p&gt;Stay &lt;s&gt;turned&lt;/s&gt; tuned.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zHiLQLYXF7g?start=103&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Tue, 30 Aug 2016 21:54:12 -0700</pubDate>
+        <pubDate>Tue, 30 Aug 2016 01:54:12 -0700</pubDate>
         <link>http://marcdwong.com/blog/misc/2016/08/30/hello-world.html</link>
         <guid isPermaLink="true">http://marcdwong.com/blog/misc/2016/08/30/hello-world.html</guid>
         
@@ -47,7 +71,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 30 Aug 2016 21:46:12 -0700</pubDate>
+        <pubDate>Tue, 30 Aug 2016 00:46:12 -0700</pubDate>
         <link>http://marcdwong.com/blog/jekyll/update/2016/08/30/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://marcdwong.com/blog/jekyll/update/2016/08/30/welcome-to-jekyll.html</guid>
         
