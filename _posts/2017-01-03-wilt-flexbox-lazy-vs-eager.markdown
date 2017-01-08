@@ -13,9 +13,12 @@ Lazy vs. Eager, aka Just-in-Time vs. Ahead-of-Time
 
 `Just-in-Time:`
   getter functions compute values when called
-  
+
 `Ahead-of-Time:`
-  values are computed and stored when inserted, so getter functions can return values in O(1) time
+  values are computed and stored when inserted, so getter functions can return values in O(1) time<br/><br/>
+
+
+  <div style="text-align:center;"><img src="{{ site.baseurl }}/assets/images/just-in-time.jpg" alt="Just-In-Time from Miracle in Lane 2" style="border:1px solid white;"/></div>
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

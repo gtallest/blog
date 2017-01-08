@@ -6,9 +6,37 @@
 </description>
     <link>http://marcdwong.com/blog/</link>
     <atom:link href="http://marcdwong.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jan 2017 14:32:21 -0800</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2017 14:32:21 -0800</lastBuildDate>
+    <pubDate>Sat, 07 Jan 2017 23:09:30 -0800</pubDate>
+    <lastBuildDate>Sat, 07 Jan 2017 23:09:30 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Greedy Approach</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/blog/assets/images/greed.jpg&quot; style=&quot;float:right;margin-left:15px;border:1px solid white; width:250px;&quot; alt=&quot;Greed from Full Metal Alchemist&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;WILT from interview prepping on Interview Cake.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Greedy solutions&lt;/code&gt; iterate through an input and take the best solution “so far” until reaching the end.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;greedy approach&lt;/code&gt; is only best if the solution can be reached by combining optimal solutions to subproblems, ending with an optimal solution.&lt;/p&gt;
+
+&lt;p&gt;A &lt;code class=&quot;highlighter-rouge&quot;&gt;greedy solution&lt;/code&gt; is fast, but may not work on every problem.&lt;/p&gt;
+
+&lt;p&gt;Trying the &lt;code class=&quot;highlighter-rouge&quot;&gt;greedy approach&lt;/code&gt; should be on of the first ways to tackle a new problem.&lt;/p&gt;
+
+&lt;p&gt;Sometimes a &lt;code class=&quot;highlighter-rouge&quot;&gt;greedy approach&lt;/code&gt; will require more than one pass through the input.&lt;/p&gt;
+
+&lt;p&gt;Another good way to approach a problem is to try a brute force solution, then improving upon that. Try to look for any patterns or repeated work, then see if it’s possible to minimize the repeated work and try to do it only once.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 07 Jan 2017 00:54:12 -0800</pubDate>
+        <link>http://marcdwong.com/blog/code/2017/01/07/greedy-approach.html</link>
+        <guid isPermaLink="true">http://marcdwong.com/blog/code/2017/01/07/greedy-approach.html</guid>
+        
+        
+        <category>code</category>
+        
+      </item>
     
       <item>
         <title>WILT: Flexbox &amp; Lazy vs. Eager</title>
@@ -22,7 +50,9 @@
   getter functions compute values when called&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ahead-of-Time:&lt;/code&gt;
-  values are computed and stored when inserted, so getter functions can return values in O(1) time&lt;/p&gt;
+  values are computed and stored when inserted, so getter functions can return values in O(1) time&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/blog/assets/images/just-in-time.jpg&quot; alt=&quot;Just-In-Time from Miracle in Lane 2&quot; style=&quot;border:1px solid white;&quot; /&gt;&lt;/div&gt;
 
 </description>
         <pubDate>Tue, 03 Jan 2017 00:54:12 -0800</pubDate>
